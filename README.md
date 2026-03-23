@@ -73,8 +73,3 @@ node index.js
 ---
 
 あと、DiscordSRVのconsole機能使うからね。
-
-## ライセンス
-
-気にしない人向け。
-自由に弄ってOK。
